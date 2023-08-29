@@ -5,6 +5,9 @@ contributor:
     agent_name: Betz, Maurice
     gutenberg_agent_id: '56223'
     url: http://www.gutenberg.org/2009/agents/56223
+covers:
+- cover_type: archival
+  image_path: 71420-h/images/cover.jpg
 creator:
   author:
     agent_name: Rilke, Rainer Maria
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Rainer_Maria_Rilke
     - https://de.wikipedia.org/wiki/Rainer_Maria_Rilke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71420#Histoires-du-bon-Dieu
 gutenberg_issued: '2023-08-16'
 identifiers:
   gutenberg: '71420'
